@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525025272 source:c:\users\vidis\desktop\projects\c++\deadlock_condition\main.cpp
+	<iostream>
+	<thread>
+	<exception>
+
